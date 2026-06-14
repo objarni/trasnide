@@ -29,9 +29,12 @@ const items = [
     },
     {
         number: 3,
-        month: "April 2025",
-        name: "Saknas — fyll i namn",
-        description: "Beskrivningen av detta verk. Berätta vad det är, hur det skapades och vad det betyder för dig.",
+        month: "December 2025",
+        name: "Skohorn",
+        description: trim(`Detta skohorn var första julklappen jag tillverkade. Hade en
+        något längre förlaga att utgå ifrån, men det blev en hel del tälj-prova-tälj-cykler
+        för att få den tillräckligt rund och bekväm. Det var också projektet som gjorde
+        att jag införskaffade en skedkniv.`),
     },
     {
         number: 4,
