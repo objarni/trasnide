@@ -13,7 +13,7 @@ const items = [
         month: "September 2025",
         name: "Obligatorisk smörkniv",
         description: trim(`Den obligatoriska smökniven!
-        Liksom i skolans träslöjdsal för nästan ett halv sekel sedan,
+        Liksom i skolans träslöjdsal för nästan ett halvt sekel sedan,
         täljde jag denna smörkniv som övning på de grepp vi lärde oss
         på helgkursen denna vackra september 2025. Valde 'chubby style',
         bra grepp, robust och kanske lite smågullig? Kul oavsett!`),
