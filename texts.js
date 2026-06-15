@@ -43,6 +43,38 @@ const items = [
         description: trim(`Slöjdläraren hade som måtto att man ska
         bygga sina egna verktyg så gott man kunde, kanske inte kniv då
         men klubba, huggstubbe, eller varför inte ställ för träsnidarsats.
-            Kul miniprojekt över jul, fick verktygen av fina dottern i julklapp`),
+        Kul miniprojekt över jul, fick verktygen av fina dottern i julklapp`),
+    },
+    {
+        number: 5,
+        month: "Januari 2025",
+        name: "Fejkkniv",
+        description: trim(`
+        Hade lite furu (tall) brasvirke över, och fick för mig att
+        nörda till det lite och tillverka an look-alike till täljkniven
+        själv. Inte superlikt, men i handen känns den, förutom vikten/balansen
+        väldigt likt faktiskt!
+        `),
+    },
+    {
+        number: 6,
+        month: "Mars-April 2025",
+        name: "Saltkar",
+        description: trim(`
+        Idén att bygga ett saltkar kom ifrån irritation med de vanliga
+        plastkaren man köper i affären, som antingen saltar väldigt kraftigt,
+        eller med sådana pyttehål att de lätt korkar igen över en kokande
+        pasta t.ex.
+        Så jag tänkte "detta är ju ett kul projekt" och satte igång!
+        Helt klart svårast hittills, dels att gröpa ur karet ordentligt
+        (gjordes med en mix av borrstorlekar och ett dremmelset till
+        skruvdragaren) men framförallt att tillverka en icke-läckande
+        lucka. Var på väg att ge upp projektet pga svårigheten att tillverka
+        en tät lucka. En dag kom jag på det: magneter! Det var efter försök
+        med både skumgummilucka inprägad i det oregelbunda hålet, pilligt och
+        otätt, som tog mig till idé med gummiband som drog igen en övertäckande
+        botten, och att magneter kan ses som "osynliga gummiband". Detta
+        fungerar utmärkt, och saltkaren används numera dagligen i hemmet.
+        `),
     },
 ];
