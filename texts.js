@@ -38,8 +38,11 @@ const items = [
     },
     {
         number: 4,
-        month: "May 2025",
-        name: "Saknas — fyll i namn",
-        description: "Beskrivningen av detta verk. Berätta vad det är, hur det skapades och vad det betyder för dig.",
+        month: "December 2025",
+        name: "Ställ för träsnidarsats",
+        description: trim(`Slöjdläraren hade som måtto att man ska
+        bygga sina egna verktyg så gott man kunde, kanske inte kniv då
+        men klubba, huggstubbe, eller varför inte ställ för träsnidarsats.
+            Kul miniprojekt över jul, fick verktygen av fina dottern i julklapp`),
     },
 ];
