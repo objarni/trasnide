@@ -175,6 +175,12 @@ header p {
     max-height: 50vh;
     object-fit: contain;
     background: #e8e0d8;
+    transition: transform 0.3s ease;
+    cursor: zoom-in;
+}
+
+.modal img:hover {
+    transform: scale(1.4);
 }
 
 .modal-body {
