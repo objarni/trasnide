@@ -77,4 +77,14 @@ const items = [
         fungerar utmärkt, och saltkaren används numera dagligen i hemmet.
         `),
     },
+    {
+        number: 7,
+        month: "May 2025",
+        name: "Kikoslev",
+        description: trim(`
+        Detta är ett grovt "mått" som passar vår hankatt; han behöver äta lagom
+        dagligen. Och det han behöver ligger mitt emellan 0,5 dl och 1,0 dl, hence
+        en sådan här lösning: tälj en "slev" efter hans exakta mått!
+        `),
+    },
 ];
